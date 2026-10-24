@@ -1,0 +1,7 @@
+{
+  "name": "StockPulse Inventory & Reorder System",
+  "description": "Inventory management dashboard for small business owners with barcode scanning, atomic stock decrements, automated supplier reorder drafts, and transactional email approval dispatch.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
